@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/Python/Python.iml" filepath="D:/Python/Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rougelike Game.iml" filepath="$PROJECT_DIR$/Rougelike Game.iml" />
     </modules>
   </component>
